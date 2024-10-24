@@ -5,6 +5,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white)
+![](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 </div>
 
 This repository contains a collection of exercises focused on Java multithreading and concurrency concepts. These exercises are designed to help you understand and implement various threading techniques in Java.
