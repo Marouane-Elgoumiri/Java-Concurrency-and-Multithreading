@@ -1,4 +1,4 @@
-# Exercice 7: Counter Application
+# Counter Application
 
 <div align="center">
   
