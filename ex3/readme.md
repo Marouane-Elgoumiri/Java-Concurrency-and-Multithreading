@@ -1,4 +1,4 @@
-# Exercice 8: Clock app
+# Clock app
 
 <div align='center'>
 
