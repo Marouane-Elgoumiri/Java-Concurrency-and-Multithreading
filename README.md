@@ -68,7 +68,7 @@ A Java Virtual Machine starts with a single thread by default which is called th
 
 ### Focus :
 - The focus of multithreading is on the execution of multiple threads, which can be managed by the system's scheduler. Each thread can perform a separate task, allowing for parallelism if the hardware supports it (e.g., multiple CPU cores).
-### Benifits:
+### Benefits:
 
 1. **Improved Performance**
    - **Parallelism**: Allows multiple threads to run concurrently, leveraging multi-core processors for significant performance improvements.
